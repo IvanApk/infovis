@@ -1,1 +1,15 @@
-Prueba
+Deluge
+Visual Encodings
+Graphical Perception
+Scalable Vector Graphics
+Index Chart
+Stream Graphs
+Horizon Graphs
+Stem-and-leaf Plot
+Parallel Coordinates
+Choroplet
+Adjacency Diagram
+icicle
+sunburst
+Squarified
+Voronoi
